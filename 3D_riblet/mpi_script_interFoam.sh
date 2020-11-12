@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#$ -N angle45Flow-mediumBiofilm # job name
+#$ -N angle45Flow-thickBiofilm # job name
 #$ -V           # use all shell environment variables
 #$ -cwd         # run job in working directory
 # #$ -j y         # merge stdout and stderr to one file
