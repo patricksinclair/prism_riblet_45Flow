@@ -14,4 +14,4 @@ git add 3D_riblet/time-derivatives-3D.ipynb 3D_riblet/drag_integrator.ipynb
 
 git commit -m "$1"
 
-git push -u origin master
+git push -u origin main
